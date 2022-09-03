@@ -1,3 +1,2 @@
-#!/bin/bashs
-tou h Hellos
-touch Hellos
+#!/bin/bash
+touch hello
